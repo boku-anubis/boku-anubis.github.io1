@@ -1,0 +1,9 @@
+/* Here is your custom css styles. */
+@font-face{
+    font-family: 'SourceHanSans-VF';
+    src: url('../font/SourceHanSans-VF.ttf');
+}
+
+body{
+    font-family: 'SourceHanSans-VF';
+}
